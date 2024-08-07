@@ -1,3 +1,11 @@
+
+
+- [[Functions]]
+- [[Parameters]]
+- [[Exceptions]]
+- [[Dynamic Memory Allocation]]
+- [[Self Defined Data Types]]
+- [[Recursion]]
 - [[Abstract Data Types]]
 - [[Encapsulation]]
 - [[Inheritance]]
