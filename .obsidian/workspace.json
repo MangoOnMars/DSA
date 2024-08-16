@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Files/C++.md",
+                "file": "Markdown Files/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Files/C++.md",
+                "file": "Markdown Files/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Files/C++.md",
+                "file": "Markdown Files/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Files/C++.md"
+                "file": "Markdown Files/Algorithms.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +145,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0e3004a9a4babf7",
+  "active": "19cb1c14eb4c9cdd",
   "lastOpenFiles": [
-    "README.md.md",
-    "Markdown Files/Notation & Analysis.md",
+    "Markdown Files/Notes",
     "Markdown Files/C++.md",
-    "Markdown Files",
-    "Markdown Files/Functions.md",
     "Markdown Files/Data Structures.md",
-    "Markdown Files/Algorithms.md"
+    "Markdown Files/Algorithms.md",
+    "Markdown Files/Linked Lists.md",
+    "Markdown Files/Notation & Analysis.md",
+    "Markdown Files/Lazy Propagation.md",
+    "Markdown Files/Greedy Algorithms.md",
+    "Markdown Files/Functions.md",
+    "README.md.md",
+    "Markdown Files"
   ]
 }

@@ -3,5 +3,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "Markdown Files"
+  "attachmentFolderPath": "Markdown Files/Notes",
+  "showUnsupportedFiles": true
 }

@@ -1,5 +1,3 @@
-
-
 - [[Functions]]
 - [[Parameters]]
 - [[Exceptions]]
