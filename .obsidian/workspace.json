@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Files/Algorithms.md",
+                "file": "Markdown Files/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Files/Algorithms.md",
+                "file": "Markdown Files/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Files/Algorithms.md",
+                "file": "Markdown Files/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Files/Algorithms.md"
+                "file": "Markdown Files/C++.md"
               }
             }
           }
@@ -147,10 +147,11 @@
   },
   "active": "19cb1c14eb4c9cdd",
   "lastOpenFiles": [
+    "README.md",
+    "Markdown Files/Algorithms.md",
     "Markdown Files/Notes",
     "Markdown Files/C++.md",
     "Markdown Files/Data Structures.md",
-    "Markdown Files/Algorithms.md",
     "Markdown Files/Linked Lists.md",
     "Markdown Files/Notation & Analysis.md",
     "Markdown Files/Lazy Propagation.md",
